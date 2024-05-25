@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.heading-coin-usd-container {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.euro-usd-container {
+  display: flex;
+  margin: 10px;
+}
+.usd {
+  margin: 10px;
+}
+.currencyLogo-style {
+  width: 70px;
+  height: 70px;
+}
+.currencyLogo-name-container {
+  color: white;
+  display: flex;
+}
+.usd-euro-container {
+  display: flex;
+  color: white;
+}
+.justify-container{
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.heading-image-container {
+  color: #00e7ff;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.list-border-container{
+    border: 3px solid #00e7ff;
+    margin: 20px;
+    
+}
